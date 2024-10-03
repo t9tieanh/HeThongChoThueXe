@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Learn\\H\u1EC7 qu\u1EA3n tr\u1ECB c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\Ch\u01B0\u01A1ng 3\\HeThongChoThueXe\\HeThongChoThueXe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6A11415-261C-4774-A5D5-89EBAD623357}|HeThongChoThueXe.csproj|c:\\learn\\h\u1EC7 qu\u1EA3n tr\u1ECB c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\ch\u01B0\u01A1ng 3\\hethongchothuexe\\hethongchothuexe\\customermainfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6A11415-261C-4774-A5D5-89EBAD623357}|HeThongChoThueXe.csproj|solutionrelative:customermainfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6A11415-261C-4774-A5D5-89EBAD623357}|HeThongChoThueXe.csproj|C:\\Learn\\H\u1EC7 qu\u1EA3n tr\u1ECB c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\Ch\u01B0\u01A1ng 3\\HeThongChoThueXe\\HeThongChoThueXe\\mainfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6A11415-261C-4774-A5D5-89EBAD623357}|HeThongChoThueXe.csproj|solutionrelative:mainfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6A11415-261C-4774-A5D5-89EBAD623357}|HeThongChoThueXe.csproj|C:\\Learn\\H\u1EC7 qu\u1EA3n tr\u1ECB c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\Ch\u01B0\u01A1ng 3\\HeThongChoThueXe\\HeThongChoThueXe\\contractdetailfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6A11415-261C-4774-A5D5-89EBAD623357}|HeThongChoThueXe.csproj|solutionrelative:contractdetailfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6A11415-261C-4774-A5D5-89EBAD623357}|HeThongChoThueXe.csproj|c:\\learn\\h\u1EC7 qu\u1EA3n tr\u1ECB c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\ch\u01B0\u01A1ng 3\\hethongchothuexe\\hethongchothuexe\\uc_control\\uc_carforrent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6A11415-261C-4774-A5D5-89EBAD623357}|HeThongChoThueXe.csproj|solutionrelative:uc_control\\uc_carforrent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6A11415-261C-4774-A5D5-89EBAD623357}|HeThongChoThueXe.csproj|C:\\Learn\\H\u1EC7 qu\u1EA3n tr\u1ECB c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\Ch\u01B0\u01A1ng 3\\HeThongChoThueXe\\HeThongChoThueXe\\uc_control\\uc_contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6A11415-261C-4774-A5D5-89EBAD623357}|HeThongChoThueXe.csproj|solutionrelative:uc_control\\uc_contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6A11415-261C-4774-A5D5-89EBAD623357}|HeThongChoThueXe.csproj|C:\\Learn\\H\u1EC7 qu\u1EA3n tr\u1ECB c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\Ch\u01B0\u01A1ng 3\\HeThongChoThueXe\\HeThongChoThueXe\\uc_control\\uc_contractunconfirm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6A11415-261C-4774-A5D5-89EBAD623357}|HeThongChoThueXe.csproj|solutionrelative:uc_control\\uc_contractunconfirm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6A11415-261C-4774-A5D5-89EBAD623357}|HeThongChoThueXe.csproj|C:\\Learn\\H\u1EC7 qu\u1EA3n tr\u1ECB c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\Ch\u01B0\u01A1ng 3\\HeThongChoThueXe\\HeThongChoThueXe\\uc_control\\uc_contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6A11415-261C-4774-A5D5-89EBAD623357}|HeThongChoThueXe.csproj|solutionrelative:uc_control\\uc_contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6A11415-261C-4774-A5D5-89EBAD623357}|HeThongChoThueXe.csproj|c:\\learn\\h\u1EC7 qu\u1EA3n tr\u1ECB c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\ch\u01B0\u01A1ng 3\\hethongchothuexe\\hethongchothuexe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6A11415-261C-4774-A5D5-89EBAD623357}|HeThongChoThueXe.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6A11415-261C-4774-A5D5-89EBAD623357}|HeThongChoThueXe.csproj|C:\\Learn\\H\u1EC7 qu\u1EA3n tr\u1ECB c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\Ch\u01B0\u01A1ng 3\\HeThongChoThueXe\\HeThongChoThueXe\\mainfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6A11415-261C-4774-A5D5-89EBAD623357}|HeThongChoThueXe.csproj|solutionrelative:mainfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Learn\\H\u1EC7 qu\u1EA3n tr\u1ECB c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\Ch\u01B0\u01A1ng 3\\HeThongChoThueXe\\HeThongChoThueXe\\MainCustomerFrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MainCustomerFrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6A11415-261C-4774-A5D5-89EBAD623357}|HeThongChoThueXe.csproj|C:\\Learn\\H\u1EC7 qu\u1EA3n tr\u1ECB c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\Ch\u01B0\u01A1ng 3\\HeThongChoThueXe\\HeThongChoThueXe\\contractdetailfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6A11415-261C-4774-A5D5-89EBAD623357}|HeThongChoThueXe.csproj|solutionrelative:contractdetailfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6A11415-261C-4774-A5D5-89EBAD623357}|HeThongChoThueXe.csproj|C:\\Learn\\H\u1EC7 qu\u1EA3n tr\u1ECB c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\Ch\u01B0\u01A1ng 3\\HeThongChoThueXe\\HeThongChoThueXe\\uc_control\\uc_contract.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6A11415-261C-4774-A5D5-89EBAD623357}|HeThongChoThueXe.csproj|solutionrelative:uc_control\\uc_contract.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UC_Contract.cs [Design]",
+              "DocumentMoniker": "C:\\Learn\\H\u1EC7 qu\u1EA3n tr\u1ECB c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\Ch\u01B0\u01A1ng 3\\HeThongChoThueXe\\HeThongChoThueXe\\UC_Control\\UC_Contract.cs",
+              "RelativeDocumentMoniker": "UC_Control\\UC_Contract.cs",
+              "ToolTip": "C:\\Learn\\H\u1EC7 qu\u1EA3n tr\u1ECB c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\Ch\u01B0\u01A1ng 3\\HeThongChoThueXe\\HeThongChoThueXe\\UC_Control\\UC_Contract.cs [Design]",
+              "RelativeToolTip": "UC_Control\\UC_Contract.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:12:11.527Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainFrm.cs [Design]",
+              "DocumentMoniker": "C:\\Learn\\H\u1EC7 qu\u1EA3n tr\u1ECB c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\Ch\u01B0\u01A1ng 3\\HeThongChoThueXe\\HeThongChoThueXe\\MainFrm.cs",
+              "RelativeDocumentMoniker": "MainFrm.cs",
+              "ToolTip": "C:\\Learn\\H\u1EC7 qu\u1EA3n tr\u1ECB c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\Ch\u01B0\u01A1ng 3\\HeThongChoThueXe\\HeThongChoThueXe\\MainFrm.cs [Design]",
+              "RelativeToolTip": "MainFrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T05:33:48.16Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContractDetailFrm.cs [Design]",
+              "DocumentMoniker": "C:\\Learn\\H\u1EC7 qu\u1EA3n tr\u1ECB c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\Ch\u01B0\u01A1ng 3\\HeThongChoThueXe\\HeThongChoThueXe\\ContractDetailFrm.cs",
+              "RelativeDocumentMoniker": "ContractDetailFrm.cs",
+              "ToolTip": "C:\\Learn\\H\u1EC7 qu\u1EA3n tr\u1ECB c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\Ch\u01B0\u01A1ng 3\\HeThongChoThueXe\\HeThongChoThueXe\\ContractDetailFrm.cs [Design]",
+              "RelativeToolTip": "ContractDetailFrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T07:00:19.918Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UC_ContractUnconfirm.cs [Design]",
+              "DocumentMoniker": "C:\\Learn\\H\u1EC7 qu\u1EA3n tr\u1ECB c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\Ch\u01B0\u01A1ng 3\\HeThongChoThueXe\\HeThongChoThueXe\\UC_Control\\UC_ContractUnconfirm.cs",
+              "RelativeDocumentMoniker": "UC_Control\\UC_ContractUnconfirm.cs",
+              "ToolTip": "C:\\Learn\\H\u1EC7 qu\u1EA3n tr\u1ECB c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\Ch\u01B0\u01A1ng 3\\HeThongChoThueXe\\HeThongChoThueXe\\UC_Control\\UC_ContractUnconfirm.cs [Design]",
+              "RelativeToolTip": "UC_Control\\UC_ContractUnconfirm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:19:30.283Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerMainFrm.cs [Design]",
+              "DocumentMoniker": "C:\\Learn\\H\u1EC7 qu\u1EA3n tr\u1ECB c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\Ch\u01B0\u01A1ng 3\\HeThongChoThueXe\\HeThongChoThueXe\\CustomerMainFrm.cs",
+              "RelativeDocumentMoniker": "CustomerMainFrm.cs",
+              "ToolTip": "C:\\Learn\\H\u1EC7 qu\u1EA3n tr\u1ECB c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\Ch\u01B0\u01A1ng 3\\HeThongChoThueXe\\HeThongChoThueXe\\CustomerMainFrm.cs [Design]",
+              "RelativeToolTip": "CustomerMainFrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T07:22:36.206Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UC_CarForRent.cs [Design]",
+              "DocumentMoniker": "C:\\Learn\\H\u1EC7 qu\u1EA3n tr\u1ECB c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\Ch\u01B0\u01A1ng 3\\HeThongChoThueXe\\HeThongChoThueXe\\UC_Control\\UC_CarForRent.cs",
+              "RelativeDocumentMoniker": "UC_Control\\UC_CarForRent.cs",
+              "ToolTip": "C:\\Learn\\H\u1EC7 qu\u1EA3n tr\u1ECB c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\Ch\u01B0\u01A1ng 3\\HeThongChoThueXe\\HeThongChoThueXe\\UC_Control\\UC_CarForRent.cs [Design]",
+              "RelativeToolTip": "UC_Control\\UC_CarForRent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T07:31:57.934Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UC_Contract.cs",
+              "DocumentMoniker": "C:\\Learn\\H\u1EC7 qu\u1EA3n tr\u1ECB c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\Ch\u01B0\u01A1ng 3\\HeThongChoThueXe\\HeThongChoThueXe\\UC_Control\\UC_Contract.cs",
+              "RelativeDocumentMoniker": "UC_Control\\UC_Contract.cs",
+              "ToolTip": "C:\\Learn\\H\u1EC7 qu\u1EA3n tr\u1ECB c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\Ch\u01B0\u01A1ng 3\\HeThongChoThueXe\\HeThongChoThueXe\\UC_Control\\UC_Contract.cs",
+              "RelativeToolTip": "UC_Control\\UC_Contract.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:23:26.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learn\\H\u1EC7 qu\u1EA3n tr\u1ECB c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\Ch\u01B0\u01A1ng 3\\HeThongChoThueXe\\HeThongChoThueXe\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Learn\\H\u1EC7 qu\u1EA3n tr\u1ECB c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\Ch\u01B0\u01A1ng 3\\HeThongChoThueXe\\HeThongChoThueXe\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T07:29:13.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainFrm.cs",
+              "DocumentMoniker": "C:\\Learn\\H\u1EC7 qu\u1EA3n tr\u1ECB c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\Ch\u01B0\u01A1ng 3\\HeThongChoThueXe\\HeThongChoThueXe\\MainFrm.cs",
+              "RelativeDocumentMoniker": "MainFrm.cs",
+              "ToolTip": "C:\\Learn\\H\u1EC7 qu\u1EA3n tr\u1ECB c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\Ch\u01B0\u01A1ng 3\\HeThongChoThueXe\\HeThongChoThueXe\\MainFrm.cs",
+              "RelativeToolTip": "MainFrm.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAiwBMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:07:44.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainCustomerFrm.cs [Design]",
+              "DocumentMoniker": "C:\\Learn\\H\u1EC7 qu\u1EA3n tr\u1ECB c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\Ch\u01B0\u01A1ng 3\\HeThongChoThueXe\\HeThongChoThueXe\\MainCustomerFrm.cs",
+              "RelativeDocumentMoniker": "MainCustomerFrm.cs",
+              "ToolTip": "C:\\Learn\\H\u1EC7 qu\u1EA3n tr\u1ECB c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\Ch\u01B0\u01A1ng 3\\HeThongChoThueXe\\HeThongChoThueXe\\MainCustomerFrm.cs [Design]",
+              "RelativeToolTip": "MainCustomerFrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T07:09:38.326Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UC_Contract.Designer.cs",
+              "DocumentMoniker": "C:\\Learn\\H\u1EC7 qu\u1EA3n tr\u1ECB c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\Ch\u01B0\u01A1ng 3\\HeThongChoThueXe\\HeThongChoThueXe\\UC_Control\\UC_Contract.Designer.cs",
+              "RelativeDocumentMoniker": "UC_Control\\UC_Contract.Designer.cs",
+              "ToolTip": "C:\\Learn\\H\u1EC7 qu\u1EA3n tr\u1ECB c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\Ch\u01B0\u01A1ng 3\\HeThongChoThueXe\\HeThongChoThueXe\\UC_Control\\UC_Contract.Designer.cs",
+              "RelativeToolTip": "UC_Control\\UC_Contract.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:19:05.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ContractDetailFrm.cs",
+              "DocumentMoniker": "C:\\Learn\\H\u1EC7 qu\u1EA3n tr\u1ECB c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\Ch\u01B0\u01A1ng 3\\HeThongChoThueXe\\HeThongChoThueXe\\ContractDetailFrm.cs",
+              "RelativeDocumentMoniker": "ContractDetailFrm.cs",
+              "ToolTip": "C:\\Learn\\H\u1EC7 qu\u1EA3n tr\u1ECB c\u01A1 s\u1EDF d\u1EEF li\u1EC7u\\Ch\u01B0\u01A1ng 3\\HeThongChoThueXe\\HeThongChoThueXe\\ContractDetailFrm.cs",
+              "RelativeToolTip": "ContractDetailFrm.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAkwAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T07:02:43.021Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 81,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

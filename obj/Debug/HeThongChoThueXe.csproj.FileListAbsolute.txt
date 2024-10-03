@@ -1,0 +1,17 @@
+C:\Learn\Hệ quản trị cơ sở dữ liệu\Chương 3\HeThongChoThueXe\HeThongChoThueXe\bin\Debug\HeThongChoThueXe.exe.config
+C:\Learn\Hệ quản trị cơ sở dữ liệu\Chương 3\HeThongChoThueXe\HeThongChoThueXe\bin\Debug\HeThongChoThueXe.exe
+C:\Learn\Hệ quản trị cơ sở dữ liệu\Chương 3\HeThongChoThueXe\HeThongChoThueXe\bin\Debug\HeThongChoThueXe.pdb
+C:\Learn\Hệ quản trị cơ sở dữ liệu\Chương 3\HeThongChoThueXe\HeThongChoThueXe\bin\Debug\Guna.UI2.dll
+C:\Learn\Hệ quản trị cơ sở dữ liệu\Chương 3\HeThongChoThueXe\HeThongChoThueXe\obj\Debug\HeThongChoThueXe.csproj.AssemblyReference.cache
+C:\Learn\Hệ quản trị cơ sở dữ liệu\Chương 3\HeThongChoThueXe\HeThongChoThueXe\obj\Debug\HeThongChoThueXe.Properties.Resources.resources
+C:\Learn\Hệ quản trị cơ sở dữ liệu\Chương 3\HeThongChoThueXe\HeThongChoThueXe\obj\Debug\HeThongChoThueXe.csproj.GenerateResource.cache
+C:\Learn\Hệ quản trị cơ sở dữ liệu\Chương 3\HeThongChoThueXe\HeThongChoThueXe\obj\Debug\HeThongChoThueXe.csproj.CoreCompileInputs.cache
+C:\Learn\Hệ quản trị cơ sở dữ liệu\Chương 3\HeThongChoThueXe\HeThongChoThueXe\obj\Debug\HeThongC.DAF75ECA.Up2Date
+C:\Learn\Hệ quản trị cơ sở dữ liệu\Chương 3\HeThongChoThueXe\HeThongChoThueXe\obj\Debug\HeThongChoThueXe.exe
+C:\Learn\Hệ quản trị cơ sở dữ liệu\Chương 3\HeThongChoThueXe\HeThongChoThueXe\obj\Debug\HeThongChoThueXe.pdb
+C:\Learn\Hệ quản trị cơ sở dữ liệu\Chương 3\HeThongChoThueXe\HeThongChoThueXe\obj\Debug\HeThongChoThueXe.UC_Control.UC_Contract.resources
+C:\Learn\Hệ quản trị cơ sở dữ liệu\Chương 3\HeThongChoThueXe\HeThongChoThueXe\obj\Debug\HeThongChoThueXe.UC_Control.UC_ContractUnconfirm.resources
+C:\Learn\Hệ quản trị cơ sở dữ liệu\Chương 3\HeThongChoThueXe\HeThongChoThueXe\obj\Debug\HeThongChoThueXe.ContractDetailFrm.resources
+C:\Learn\Hệ quản trị cơ sở dữ liệu\Chương 3\HeThongChoThueXe\HeThongChoThueXe\obj\Debug\HeThongChoThueXe.MainFrm.resources
+C:\Learn\Hệ quản trị cơ sở dữ liệu\Chương 3\HeThongChoThueXe\HeThongChoThueXe\obj\Debug\HeThongChoThueXe.CustomerMainFrm.resources
+C:\Learn\Hệ quản trị cơ sở dữ liệu\Chương 3\HeThongChoThueXe\HeThongChoThueXe\obj\Debug\HeThongChoThueXe.UC_Control.UC_CarForRent.resources

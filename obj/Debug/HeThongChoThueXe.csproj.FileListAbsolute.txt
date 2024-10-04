@@ -15,3 +15,21 @@ C:\Learn\Hệ quản trị cơ sở dữ liệu\Chương 3\HeThongChoThueXe\HeTh
 C:\Learn\Hệ quản trị cơ sở dữ liệu\Chương 3\HeThongChoThueXe\HeThongChoThueXe\obj\Debug\HeThongChoThueXe.MainFrm.resources
 C:\Learn\Hệ quản trị cơ sở dữ liệu\Chương 3\HeThongChoThueXe\HeThongChoThueXe\obj\Debug\HeThongChoThueXe.CustomerMainFrm.resources
 C:\Learn\Hệ quản trị cơ sở dữ liệu\Chương 3\HeThongChoThueXe\HeThongChoThueXe\obj\Debug\HeThongChoThueXe.UC_Control.UC_CarForRent.resources
+D:\DBMS\Project\bin\Debug\HeThongChoThueXe.exe.config
+D:\DBMS\Project\bin\Debug\HeThongChoThueXe.exe
+D:\DBMS\Project\bin\Debug\HeThongChoThueXe.pdb
+D:\DBMS\Project\bin\Debug\Guna.UI2.dll
+D:\DBMS\Project\obj\Debug\HeThongChoThueXe.csproj.AssemblyReference.cache
+D:\DBMS\Project\obj\Debug\HeThongChoThueXe.csproj.SuggestedBindingRedirects.cache
+D:\DBMS\Project\obj\Debug\HeThongChoThueXe.ContractDetailFrm.resources
+D:\DBMS\Project\obj\Debug\HeThongChoThueXe.CustomerMainFrm.resources
+D:\DBMS\Project\obj\Debug\HeThongChoThueXe.MainFrm.resources
+D:\DBMS\Project\obj\Debug\HeThongChoThueXe.Properties.Resources.resources
+D:\DBMS\Project\obj\Debug\HeThongChoThueXe.UC_Control.UC_CarForRent.resources
+D:\DBMS\Project\obj\Debug\HeThongChoThueXe.UC_Control.UC_Contract.resources
+D:\DBMS\Project\obj\Debug\HeThongChoThueXe.UC_Control.UC_ContractUnconfirm.resources
+D:\DBMS\Project\obj\Debug\HeThongChoThueXe.csproj.GenerateResource.cache
+D:\DBMS\Project\obj\Debug\HeThongChoThueXe.csproj.CoreCompileInputs.cache
+D:\DBMS\Project\obj\Debug\HeThongChoThueXe.csproj.CopyComplete
+D:\DBMS\Project\obj\Debug\HeThongChoThueXe.exe
+D:\DBMS\Project\obj\Debug\HeThongChoThueXe.pdb

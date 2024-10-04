@@ -43,7 +43,6 @@
             this.lblIdCustomer = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.lblHelp = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.txtAbout = new System.Windows.Forms.RichTextBox();
-            this.txtInfomationForSeacrh = new Guna.UI2.WinForms.Guna2TextBox();
             this.btnCreateContract = new Guna.UI2.WinForms.Guna2Button();
             this.pnAbout = new Guna.UI2.WinForms.Guna2Panel();
             this.pnInfor = new Guna.UI2.WinForms.Guna2Panel();
@@ -59,6 +58,7 @@
             this.rbtnBicycle = new Guna.UI2.WinForms.Guna2RadioButton();
             this.cbServiceRent = new Guna.UI2.WinForms.Guna2ComboBox();
             this.pnTrangtri = new Guna.UI2.WinForms.Guna2Panel();
+            this.guna2HtmlLabel1 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.uC_CarForRent1 = new HeThongChoThueXe.UC_Control.UC_CarForRent();
             this.uC_CarForRent2 = new HeThongChoThueXe.UC_Control.UC_CarForRent();
             this.uC_CarForRent3 = new HeThongChoThueXe.UC_Control.UC_CarForRent();
@@ -95,25 +95,26 @@
             // lblNameCustomer
             // 
             this.lblNameCustomer.BackColor = System.Drawing.Color.Transparent;
-            this.lblNameCustomer.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblNameCustomer.Font = new System.Drawing.Font("Tahoma", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblNameCustomer.ForeColor = System.Drawing.Color.White;
-            this.lblNameCustomer.Location = new System.Drawing.Point(81, 9);
-            this.lblNameCustomer.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.lblNameCustomer.Location = new System.Drawing.Point(61, 18);
+            this.lblNameCustomer.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.lblNameCustomer.Name = "lblNameCustomer";
-            this.lblNameCustomer.Size = new System.Drawing.Size(80, 22);
+            this.lblNameCustomer.Size = new System.Drawing.Size(67, 16);
             this.lblNameCustomer.TabIndex = 18;
             this.lblNameCustomer.Text = "Name here";
             // 
             // picCustomerAvatar
             // 
-            this.picCustomerAvatar.BackColor = System.Drawing.Color.White;
+            this.picCustomerAvatar.BackColor = System.Drawing.Color.Transparent;
             this.picCustomerAvatar.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.picCustomerAvatar.FillColor = System.Drawing.Color.Transparent;
             this.picCustomerAvatar.Image = ((System.Drawing.Image)(resources.GetObject("picCustomerAvatar.Image")));
             this.picCustomerAvatar.ImageRotate = 0F;
-            this.picCustomerAvatar.Location = new System.Drawing.Point(11, 9);
-            this.picCustomerAvatar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.picCustomerAvatar.Location = new System.Drawing.Point(11, 18);
+            this.picCustomerAvatar.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.picCustomerAvatar.Name = "picCustomerAvatar";
-            this.picCustomerAvatar.Size = new System.Drawing.Size(54, 52);
+            this.picCustomerAvatar.Size = new System.Drawing.Size(40, 42);
             this.picCustomerAvatar.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.picCustomerAvatar.TabIndex = 17;
             this.picCustomerAvatar.TabStop = false;
@@ -124,10 +125,10 @@
             this.picLogo.Cursor = System.Windows.Forms.Cursors.Hand;
             this.picLogo.Image = ((System.Drawing.Image)(resources.GetObject("picLogo.Image")));
             this.picLogo.ImageRotate = 0F;
-            this.picLogo.Location = new System.Drawing.Point(1202, 35);
-            this.picLogo.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.picLogo.Location = new System.Drawing.Point(902, 28);
+            this.picLogo.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.picLogo.Name = "picLogo";
-            this.picLogo.Size = new System.Drawing.Size(142, 128);
+            this.picLogo.Size = new System.Drawing.Size(106, 104);
             this.picLogo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.picLogo.TabIndex = 16;
             this.picLogo.TabStop = false;
@@ -136,10 +137,10 @@
             // 
             this.richTextBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.richTextBox1.Font = new System.Drawing.Font("Segoe UI Semibold", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.richTextBox1.Location = new System.Drawing.Point(3, 59);
-            this.richTextBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.richTextBox1.Location = new System.Drawing.Point(2, 48);
+            this.richTextBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.richTextBox1.Name = "richTextBox1";
-            this.richTextBox1.Size = new System.Drawing.Size(373, 19);
+            this.richTextBox1.Size = new System.Drawing.Size(280, 15);
             this.richTextBox1.TabIndex = 20;
             this.richTextBox1.Text = "Notice";
             // 
@@ -149,19 +150,21 @@
             this.pnInfomation.Controls.Add(this.label1);
             this.pnInfomation.Controls.Add(this.guna2CirclePictureBox1);
             this.pnInfomation.FillColor = System.Drawing.Color.GhostWhite;
-            this.pnInfomation.Location = new System.Drawing.Point(3, 3);
+            this.pnInfomation.Location = new System.Drawing.Point(2, 2);
+            this.pnInfomation.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pnInfomation.Name = "pnInfomation";
             this.pnInfomation.ShadowColor = System.Drawing.SystemColors.AppWorkspace;
-            this.pnInfomation.Size = new System.Drawing.Size(378, 53);
+            this.pnInfomation.Size = new System.Drawing.Size(243, 43);
             this.pnInfomation.TabIndex = 19;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Segoe UI", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(55, 15);
+            this.label1.Location = new System.Drawing.Point(41, 12);
+            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(232, 17);
+            this.label1.Size = new System.Drawing.Size(193, 13);
             this.label1.TabIndex = 1;
             this.label1.Text = "Parking lot and services for your car";
             // 
@@ -169,10 +172,11 @@
             // 
             this.guna2CirclePictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("guna2CirclePictureBox1.Image")));
             this.guna2CirclePictureBox1.ImageRotate = 0F;
-            this.guna2CirclePictureBox1.Location = new System.Drawing.Point(4, 8);
+            this.guna2CirclePictureBox1.Location = new System.Drawing.Point(3, 6);
+            this.guna2CirclePictureBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.guna2CirclePictureBox1.Name = "guna2CirclePictureBox1";
             this.guna2CirclePictureBox1.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.guna2CirclePictureBox1.Size = new System.Drawing.Size(38, 35);
+            this.guna2CirclePictureBox1.Size = new System.Drawing.Size(28, 28);
             this.guna2CirclePictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.guna2CirclePictureBox1.TabIndex = 0;
             this.guna2CirclePictureBox1.TabStop = false;
@@ -187,77 +191,53 @@
             this.btnMyContract.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.btnMyContract.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.btnMyContract.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(52)))), ((int)(((byte)(73)))), ((int)(((byte)(94)))));
-            this.btnMyContract.Font = new System.Drawing.Font("Century Gothic", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnMyContract.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnMyContract.ForeColor = System.Drawing.Color.White;
             this.btnMyContract.Image = ((System.Drawing.Image)(resources.GetObject("btnMyContract.Image")));
             this.btnMyContract.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
             this.btnMyContract.ImageSize = new System.Drawing.Size(30, 30);
-            this.btnMyContract.Location = new System.Drawing.Point(11, 118);
-            this.btnMyContract.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.btnMyContract.Location = new System.Drawing.Point(8, 90);
+            this.btnMyContract.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnMyContract.Name = "btnMyContract";
-            this.btnMyContract.Size = new System.Drawing.Size(183, 36);
+            this.btnMyContract.Size = new System.Drawing.Size(141, 35);
             this.btnMyContract.TabIndex = 263;
-            this.btnMyContract.Text = "my Contract";
+            this.btnMyContract.Text = "Hợp đồng của tôi";
             this.btnMyContract.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
             // lblIdCustomer
             // 
             this.lblIdCustomer.BackColor = System.Drawing.Color.Transparent;
-            this.lblIdCustomer.Font = new System.Drawing.Font("Century Gothic", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblIdCustomer.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblIdCustomer.ForeColor = System.Drawing.Color.White;
-            this.lblIdCustomer.Location = new System.Drawing.Point(81, 36);
-            this.lblIdCustomer.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.lblIdCustomer.Location = new System.Drawing.Point(61, 40);
+            this.lblIdCustomer.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.lblIdCustomer.Name = "lblIdCustomer";
-            this.lblIdCustomer.Size = new System.Drawing.Size(48, 19);
+            this.lblIdCustomer.Size = new System.Drawing.Size(39, 15);
             this.lblIdCustomer.TabIndex = 19;
             this.lblIdCustomer.Text = "ID here";
             // 
             // lblHelp
             // 
             this.lblHelp.BackColor = System.Drawing.Color.Transparent;
-            this.lblHelp.Font = new System.Drawing.Font("Century Gothic", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblHelp.Font = new System.Drawing.Font("Tahoma", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblHelp.ForeColor = System.Drawing.Color.White;
-            this.lblHelp.Location = new System.Drawing.Point(533, 34);
-            this.lblHelp.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.lblHelp.Location = new System.Drawing.Point(417, 29);
+            this.lblHelp.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.lblHelp.Name = "lblHelp";
-            this.lblHelp.Size = new System.Drawing.Size(305, 39);
+            this.lblHelp.Size = new System.Drawing.Size(245, 31);
             this.lblHelp.TabIndex = 18;
-            this.lblHelp.Text = "How can i help you ?";
+            this.lblHelp.Text = "Hệ thống thuê xe F4";
             // 
             // txtAbout
             // 
             this.txtAbout.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txtAbout.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtAbout.Location = new System.Drawing.Point(3, 89);
-            this.txtAbout.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.txtAbout.Location = new System.Drawing.Point(2, 72);
+            this.txtAbout.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.txtAbout.Name = "txtAbout";
-            this.txtAbout.Size = new System.Drawing.Size(324, 141);
+            this.txtAbout.Size = new System.Drawing.Size(243, 115);
             this.txtAbout.TabIndex = 17;
             this.txtAbout.Text = "Thông báo chuyển bãi để xe Giảng viên, sinh viên sang bãi để xe mới";
-            // 
-            // txtInfomationForSeacrh
-            // 
-            this.txtInfomationForSeacrh.BackColor = System.Drawing.Color.Transparent;
-            this.txtInfomationForSeacrh.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
-            this.txtInfomationForSeacrh.BorderRadius = 10;
-            this.txtInfomationForSeacrh.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.txtInfomationForSeacrh.DefaultText = "";
-            this.txtInfomationForSeacrh.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
-            this.txtInfomationForSeacrh.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
-            this.txtInfomationForSeacrh.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.txtInfomationForSeacrh.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.txtInfomationForSeacrh.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.txtInfomationForSeacrh.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.txtInfomationForSeacrh.ForeColor = System.Drawing.Color.Gray;
-            this.txtInfomationForSeacrh.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.txtInfomationForSeacrh.Location = new System.Drawing.Point(529, 96);
-            this.txtInfomationForSeacrh.Margin = new System.Windows.Forms.Padding(4);
-            this.txtInfomationForSeacrh.Name = "txtInfomationForSeacrh";
-            this.txtInfomationForSeacrh.PasswordChar = '\0';
-            this.txtInfomationForSeacrh.PlaceholderText = "Enter search keyword";
-            this.txtInfomationForSeacrh.SelectedText = "";
-            this.txtInfomationForSeacrh.Size = new System.Drawing.Size(372, 29);
-            this.txtInfomationForSeacrh.TabIndex = 14;
             // 
             // btnCreateContract
             // 
@@ -270,17 +250,16 @@
             this.btnCreateContract.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.btnCreateContract.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.btnCreateContract.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(9)))), ((int)(((byte)(132)))), ((int)(((byte)(227)))));
-            this.btnCreateContract.Font = new System.Drawing.Font("Century Gothic", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnCreateContract.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCreateContract.ForeColor = System.Drawing.Color.White;
             this.btnCreateContract.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
             this.btnCreateContract.ImageSize = new System.Drawing.Size(30, 30);
-            this.btnCreateContract.Location = new System.Drawing.Point(113, 576);
-            this.btnCreateContract.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.btnCreateContract.Location = new System.Drawing.Point(48, 467);
+            this.btnCreateContract.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnCreateContract.Name = "btnCreateContract";
-            this.btnCreateContract.Size = new System.Drawing.Size(209, 30);
+            this.btnCreateContract.Size = new System.Drawing.Size(157, 24);
             this.btnCreateContract.TabIndex = 263;
             this.btnCreateContract.Text = "Create Contract";
-            this.btnCreateContract.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
             // pnAbout
             // 
@@ -290,10 +269,10 @@
             this.pnAbout.Controls.Add(this.richTextBox1);
             this.pnAbout.Controls.Add(this.pnInfomation);
             this.pnAbout.Controls.Add(this.txtAbout);
-            this.pnAbout.Location = new System.Drawing.Point(3, 210);
-            this.pnAbout.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.pnAbout.Location = new System.Drawing.Point(2, 171);
+            this.pnAbout.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pnAbout.Name = "pnAbout";
-            this.pnAbout.Size = new System.Drawing.Size(330, 360);
+            this.pnAbout.Size = new System.Drawing.Size(248, 292);
             this.pnAbout.TabIndex = 18;
             // 
             // pnInfor
@@ -303,10 +282,10 @@
             this.pnInfor.Controls.Add(this.pnAbout);
             this.pnInfor.Controls.Add(this.pbxNotice);
             this.pnInfor.Dock = System.Windows.Forms.DockStyle.Right;
-            this.pnInfor.Location = new System.Drawing.Point(1051, 163);
-            this.pnInfor.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.pnInfor.Location = new System.Drawing.Point(788, 132);
+            this.pnInfor.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pnInfor.Name = "pnInfor";
-            this.pnInfor.Size = new System.Drawing.Size(332, 616);
+            this.pnInfor.Size = new System.Drawing.Size(249, 497);
             this.pnInfor.TabIndex = 20;
             // 
             // pbxNotice
@@ -314,10 +293,10 @@
             this.pbxNotice.Cursor = System.Windows.Forms.Cursors.Hand;
             this.pbxNotice.Image = ((System.Drawing.Image)(resources.GetObject("pbxNotice.Image")));
             this.pbxNotice.ImageRotate = 0F;
-            this.pbxNotice.Location = new System.Drawing.Point(3, 4);
-            this.pbxNotice.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.pbxNotice.Location = new System.Drawing.Point(2, 3);
+            this.pbxNotice.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pbxNotice.Name = "pbxNotice";
-            this.pbxNotice.Size = new System.Drawing.Size(330, 202);
+            this.pbxNotice.Size = new System.Drawing.Size(248, 164);
             this.pbxNotice.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pbxNotice.TabIndex = 16;
             this.pbxNotice.TabStop = false;
@@ -326,22 +305,22 @@
             // 
             this.pnTop.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(52)))), ((int)(((byte)(152)))), ((int)(((byte)(219)))));
             this.pnTop.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pnTop.BackgroundImage")));
+            this.pnTop.Controls.Add(this.guna2HtmlLabel1);
             this.pnTop.Controls.Add(this.btnMyContract);
             this.pnTop.Controls.Add(this.lblIdCustomer);
             this.pnTop.Controls.Add(this.lblHelp);
             this.pnTop.Controls.Add(this.lblNameCustomer);
             this.pnTop.Controls.Add(this.picCustomerAvatar);
             this.pnTop.Controls.Add(this.picLogo);
-            this.pnTop.Controls.Add(this.txtInfomationForSeacrh);
             this.pnTop.Controls.Add(this.picMinimize);
             this.pnTop.Controls.Add(this.picExit);
             this.pnTop.Dock = System.Windows.Forms.DockStyle.Top;
             this.pnTop.Location = new System.Drawing.Point(0, 0);
-            this.pnTop.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.pnTop.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pnTop.Name = "pnTop";
             this.pnTop.ShadowDecoration.BorderRadius = 20;
             this.pnTop.ShadowDecoration.Color = System.Drawing.Color.FromArgb(((int)(((byte)(85)))), ((int)(((byte)(239)))), ((int)(((byte)(196)))));
-            this.pnTop.Size = new System.Drawing.Size(1383, 163);
+            this.pnTop.Size = new System.Drawing.Size(1037, 132);
             this.pnTop.TabIndex = 18;
             // 
             // picMinimize
@@ -350,11 +329,11 @@
             this.picMinimize.Cursor = System.Windows.Forms.Cursors.Hand;
             this.picMinimize.FillColor = System.Drawing.Color.Yellow;
             this.picMinimize.ImageRotate = 0F;
-            this.picMinimize.Location = new System.Drawing.Point(1339, 2);
-            this.picMinimize.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.picMinimize.Location = new System.Drawing.Point(1004, 2);
+            this.picMinimize.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.picMinimize.Name = "picMinimize";
             this.picMinimize.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.picMinimize.Size = new System.Drawing.Size(18, 16);
+            this.picMinimize.Size = new System.Drawing.Size(14, 13);
             this.picMinimize.TabIndex = 12;
             this.picMinimize.TabStop = false;
             // 
@@ -364,11 +343,11 @@
             this.picExit.Cursor = System.Windows.Forms.Cursors.Hand;
             this.picExit.FillColor = System.Drawing.Color.Red;
             this.picExit.ImageRotate = 0F;
-            this.picExit.Location = new System.Drawing.Point(1363, 2);
-            this.picExit.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.picExit.Location = new System.Drawing.Point(1022, 2);
+            this.picExit.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.picExit.Name = "picExit";
             this.picExit.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.picExit.Size = new System.Drawing.Size(18, 16);
+            this.picExit.Size = new System.Drawing.Size(14, 13);
             this.picExit.TabIndex = 13;
             this.picExit.TabStop = false;
             // 
@@ -379,10 +358,10 @@
             this.pnService.Controls.Add(this.pnTypeVehicle);
             this.pnService.Controls.Add(this.cbServiceRent);
             this.pnService.Controls.Add(this.pnTrangtri);
-            this.pnService.Location = new System.Drawing.Point(0, 167);
-            this.pnService.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.pnService.Location = new System.Drawing.Point(0, 136);
+            this.pnService.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pnService.Name = "pnService";
-            this.pnService.Size = new System.Drawing.Size(1048, 602);
+            this.pnService.Size = new System.Drawing.Size(786, 489);
             this.pnService.TabIndex = 21;
             // 
             // flowServiceRentCar
@@ -397,11 +376,11 @@
             this.flowServiceRentCar.Controls.Add(this.uC_CarForRent6);
             this.flowServiceRentCar.Controls.Add(this.uC_CarForRent7);
             this.flowServiceRentCar.Controls.Add(this.uC_CarForRent8);
-            this.flowServiceRentCar.Location = new System.Drawing.Point(11, 62);
-            this.flowServiceRentCar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.flowServiceRentCar.Location = new System.Drawing.Point(8, 50);
+            this.flowServiceRentCar.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.flowServiceRentCar.Name = "flowServiceRentCar";
-            this.flowServiceRentCar.Padding = new System.Windows.Forms.Padding(9, 8, 0, 0);
-            this.flowServiceRentCar.Size = new System.Drawing.Size(1034, 538);
+            this.flowServiceRentCar.Padding = new System.Windows.Forms.Padding(7, 6, 0, 0);
+            this.flowServiceRentCar.Size = new System.Drawing.Size(776, 437);
             this.flowServiceRentCar.TabIndex = 0;
             // 
             // pnTypeVehicle
@@ -413,10 +392,10 @@
             this.pnTypeVehicle.Controls.Add(this.rbtnMotobike);
             this.pnTypeVehicle.Controls.Add(this.rbtnBicycle);
             this.pnTypeVehicle.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
-            this.pnTypeVehicle.Location = new System.Drawing.Point(284, 9);
-            this.pnTypeVehicle.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.pnTypeVehicle.Location = new System.Drawing.Point(213, 7);
+            this.pnTypeVehicle.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pnTypeVehicle.Name = "pnTypeVehicle";
-            this.pnTypeVehicle.Size = new System.Drawing.Size(217, 38);
+            this.pnTypeVehicle.Size = new System.Drawing.Size(163, 31);
             this.pnTypeVehicle.TabIndex = 154;
             // 
             // rbtnCar
@@ -432,10 +411,10 @@
             this.rbtnCar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.rbtnCar.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.rbtnCar.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(11)))), ((int)(((byte)(179)))), ((int)(((byte)(255)))));
-            this.rbtnCar.Location = new System.Drawing.Point(155, 9);
-            this.rbtnCar.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            this.rbtnCar.Location = new System.Drawing.Point(116, 7);
+            this.rbtnCar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.rbtnCar.Name = "rbtnCar";
-            this.rbtnCar.Size = new System.Drawing.Size(48, 20);
+            this.rbtnCar.Size = new System.Drawing.Size(40, 17);
             this.rbtnCar.TabIndex = 45;
             this.rbtnCar.Text = "Car";
             this.rbtnCar.UncheckedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(125)))), ((int)(((byte)(137)))), ((int)(((byte)(149)))));
@@ -456,10 +435,10 @@
             this.rbtnMotobike.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.rbtnMotobike.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.rbtnMotobike.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(11)))), ((int)(((byte)(179)))), ((int)(((byte)(255)))));
-            this.rbtnMotobike.Location = new System.Drawing.Point(90, 9);
-            this.rbtnMotobike.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            this.rbtnMotobike.Location = new System.Drawing.Point(68, 7);
+            this.rbtnMotobike.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.rbtnMotobike.Name = "rbtnMotobike";
-            this.rbtnMotobike.Size = new System.Drawing.Size(57, 20);
+            this.rbtnMotobike.Size = new System.Drawing.Size(48, 17);
             this.rbtnMotobike.TabIndex = 45;
             this.rbtnMotobike.Text = "Moto";
             this.rbtnMotobike.UncheckedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(125)))), ((int)(((byte)(137)))), ((int)(((byte)(149)))));
@@ -481,10 +460,10 @@
             this.rbtnBicycle.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.rbtnBicycle.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.rbtnBicycle.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(11)))), ((int)(((byte)(179)))), ((int)(((byte)(255)))));
-            this.rbtnBicycle.Location = new System.Drawing.Point(11, 9);
-            this.rbtnBicycle.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            this.rbtnBicycle.Location = new System.Drawing.Point(8, 7);
+            this.rbtnBicycle.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.rbtnBicycle.Name = "rbtnBicycle";
-            this.rbtnBicycle.Size = new System.Drawing.Size(71, 20);
+            this.rbtnBicycle.Size = new System.Drawing.Size(58, 17);
             this.rbtnBicycle.TabIndex = 46;
             this.rbtnBicycle.TabStop = true;
             this.rbtnBicycle.Text = "Bicycle";
@@ -503,9 +482,10 @@
             this.cbServiceRent.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cbServiceRent.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(68)))), ((int)(((byte)(88)))), ((int)(((byte)(112)))));
             this.cbServiceRent.ItemHeight = 20;
-            this.cbServiceRent.Location = new System.Drawing.Point(11, 15);
+            this.cbServiceRent.Location = new System.Drawing.Point(8, 12);
+            this.cbServiceRent.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.cbServiceRent.Name = "cbServiceRent";
-            this.cbServiceRent.Size = new System.Drawing.Size(267, 26);
+            this.cbServiceRent.Size = new System.Drawing.Size(201, 26);
             this.cbServiceRent.TabIndex = 20;
             // 
             // pnTrangtri
@@ -514,78 +494,99 @@
             this.pnTrangtri.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(108)))), ((int)(((byte)(92)))), ((int)(((byte)(231)))));
             this.pnTrangtri.BorderRadius = 2;
             this.pnTrangtri.BorderThickness = 1;
-            this.pnTrangtri.Location = new System.Drawing.Point(11, 51);
-            this.pnTrangtri.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.pnTrangtri.Location = new System.Drawing.Point(8, 41);
+            this.pnTrangtri.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pnTrangtri.Name = "pnTrangtri";
-            this.pnTrangtri.Size = new System.Drawing.Size(1031, 3);
+            this.pnTrangtri.Size = new System.Drawing.Size(773, 2);
             this.pnTrangtri.TabIndex = 19;
+            // 
+            // guna2HtmlLabel1
+            // 
+            this.guna2HtmlLabel1.BackColor = System.Drawing.Color.Transparent;
+            this.guna2HtmlLabel1.Font = new System.Drawing.Font("Tahoma", 12.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.guna2HtmlLabel1.ForeColor = System.Drawing.Color.White;
+            this.guna2HtmlLabel1.Location = new System.Drawing.Point(344, 75);
+            this.guna2HtmlLabel1.Margin = new System.Windows.Forms.Padding(2);
+            this.guna2HtmlLabel1.Name = "guna2HtmlLabel1";
+            this.guna2HtmlLabel1.Size = new System.Drawing.Size(393, 23);
+            this.guna2HtmlLabel1.TabIndex = 264;
+            this.guna2HtmlLabel1.Text = "Chào mừng bạn đến với hệ thống cho thuê xe";
             // 
             // uC_CarForRent1
             // 
-            this.uC_CarForRent1.Location = new System.Drawing.Point(12, 11);
+            this.uC_CarForRent1.Location = new System.Drawing.Point(9, 8);
+            this.uC_CarForRent1.Margin = new System.Windows.Forms.Padding(2);
             this.uC_CarForRent1.Name = "uC_CarForRent1";
-            this.uC_CarForRent1.Size = new System.Drawing.Size(236, 303);
+            this.uC_CarForRent1.Size = new System.Drawing.Size(177, 246);
             this.uC_CarForRent1.TabIndex = 0;
             // 
             // uC_CarForRent2
             // 
-            this.uC_CarForRent2.Location = new System.Drawing.Point(254, 11);
+            this.uC_CarForRent2.Location = new System.Drawing.Point(190, 8);
+            this.uC_CarForRent2.Margin = new System.Windows.Forms.Padding(2);
             this.uC_CarForRent2.Name = "uC_CarForRent2";
-            this.uC_CarForRent2.Size = new System.Drawing.Size(236, 303);
+            this.uC_CarForRent2.Size = new System.Drawing.Size(177, 246);
             this.uC_CarForRent2.TabIndex = 1;
             // 
             // uC_CarForRent3
             // 
-            this.uC_CarForRent3.Location = new System.Drawing.Point(496, 11);
+            this.uC_CarForRent3.Location = new System.Drawing.Point(371, 8);
+            this.uC_CarForRent3.Margin = new System.Windows.Forms.Padding(2);
             this.uC_CarForRent3.Name = "uC_CarForRent3";
-            this.uC_CarForRent3.Size = new System.Drawing.Size(236, 303);
+            this.uC_CarForRent3.Size = new System.Drawing.Size(177, 246);
             this.uC_CarForRent3.TabIndex = 2;
             // 
             // uC_CarForRent4
             // 
-            this.uC_CarForRent4.Location = new System.Drawing.Point(738, 11);
+            this.uC_CarForRent4.Location = new System.Drawing.Point(552, 8);
+            this.uC_CarForRent4.Margin = new System.Windows.Forms.Padding(2);
             this.uC_CarForRent4.Name = "uC_CarForRent4";
-            this.uC_CarForRent4.Size = new System.Drawing.Size(236, 303);
+            this.uC_CarForRent4.Size = new System.Drawing.Size(177, 246);
             this.uC_CarForRent4.TabIndex = 3;
             // 
             // uC_CarForRent5
             // 
-            this.uC_CarForRent5.Location = new System.Drawing.Point(12, 320);
+            this.uC_CarForRent5.Location = new System.Drawing.Point(9, 258);
+            this.uC_CarForRent5.Margin = new System.Windows.Forms.Padding(2);
             this.uC_CarForRent5.Name = "uC_CarForRent5";
-            this.uC_CarForRent5.Size = new System.Drawing.Size(236, 303);
+            this.uC_CarForRent5.Size = new System.Drawing.Size(177, 246);
             this.uC_CarForRent5.TabIndex = 4;
             // 
             // uC_CarForRent6
             // 
-            this.uC_CarForRent6.Location = new System.Drawing.Point(254, 320);
+            this.uC_CarForRent6.Location = new System.Drawing.Point(190, 258);
+            this.uC_CarForRent6.Margin = new System.Windows.Forms.Padding(2);
             this.uC_CarForRent6.Name = "uC_CarForRent6";
-            this.uC_CarForRent6.Size = new System.Drawing.Size(236, 303);
+            this.uC_CarForRent6.Size = new System.Drawing.Size(177, 246);
             this.uC_CarForRent6.TabIndex = 5;
             // 
             // uC_CarForRent7
             // 
-            this.uC_CarForRent7.Location = new System.Drawing.Point(496, 320);
+            this.uC_CarForRent7.Location = new System.Drawing.Point(371, 258);
+            this.uC_CarForRent7.Margin = new System.Windows.Forms.Padding(2);
             this.uC_CarForRent7.Name = "uC_CarForRent7";
-            this.uC_CarForRent7.Size = new System.Drawing.Size(236, 303);
+            this.uC_CarForRent7.Size = new System.Drawing.Size(177, 246);
             this.uC_CarForRent7.TabIndex = 6;
             // 
             // uC_CarForRent8
             // 
-            this.uC_CarForRent8.Location = new System.Drawing.Point(738, 320);
+            this.uC_CarForRent8.Location = new System.Drawing.Point(552, 258);
+            this.uC_CarForRent8.Margin = new System.Windows.Forms.Padding(2);
             this.uC_CarForRent8.Name = "uC_CarForRent8";
-            this.uC_CarForRent8.Size = new System.Drawing.Size(236, 303);
+            this.uC_CarForRent8.Size = new System.Drawing.Size(177, 246);
             this.uC_CarForRent8.TabIndex = 7;
             // 
             // CustomerMainFrm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.ClientSize = new System.Drawing.Size(1383, 779);
+            this.ClientSize = new System.Drawing.Size(1037, 629);
             this.Controls.Add(this.pnService);
             this.Controls.Add(this.pnInfor);
             this.Controls.Add(this.pnTop);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "CustomerMainFrm";
             this.Text = "CustomerMainFrm";
             ((System.ComponentModel.ISupportInitialize)(this.error)).EndInit();
@@ -628,7 +629,6 @@
         private Guna.UI2.WinForms.Guna2HtmlLabel lblNameCustomer;
         private Guna.UI2.WinForms.Guna2PictureBox picCustomerAvatar;
         private Guna.UI2.WinForms.Guna2PictureBox picLogo;
-        private Guna.UI2.WinForms.Guna2TextBox txtInfomationForSeacrh;
         private Guna.UI2.WinForms.Guna2CirclePictureBox picMinimize;
         private Guna.UI2.WinForms.Guna2CirclePictureBox picExit;
         private Guna.UI2.WinForms.Guna2Panel pnService;
@@ -647,5 +647,6 @@
         private UC_Control.UC_CarForRent uC_CarForRent6;
         private UC_Control.UC_CarForRent uC_CarForRent7;
         private UC_Control.UC_CarForRent uC_CarForRent8;
+        private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel1;
     }
 }

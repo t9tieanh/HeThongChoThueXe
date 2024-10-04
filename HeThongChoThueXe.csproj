@@ -75,6 +75,18 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SignInFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SignInFrm.Designer.cs">
+      <DependentUpon>SignInFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SignUpFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SignUpFrm.Designer.cs">
+      <DependentUpon>SignUpFrm.cs</DependentUpon>
+    </Compile>
     <Compile Include="UC_Control\UC_CarForRent.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -111,6 +123,12 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="SignInFrm.resx">
+      <DependentUpon>SignInFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SignUpFrm.resx">
+      <DependentUpon>SignUpFrm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="UC_Control\UC_CarForRent.resx">
       <DependentUpon>UC_CarForRent.cs</DependentUpon>
     </EmbeddedResource>

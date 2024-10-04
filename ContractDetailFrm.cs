@@ -21,5 +21,10 @@ namespace HeThongChoThueXe
         {
 
         }
+
+        private void pnInfo_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

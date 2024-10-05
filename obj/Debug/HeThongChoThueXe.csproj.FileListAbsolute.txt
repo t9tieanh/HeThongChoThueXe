@@ -33,3 +33,6 @@ D:\DBMS\Project\obj\Debug\HeThongChoThueXe.csproj.CoreCompileInputs.cache
 D:\DBMS\Project\obj\Debug\HeThongChoThueXe.csproj.CopyComplete
 D:\DBMS\Project\obj\Debug\HeThongChoThueXe.exe
 D:\DBMS\Project\obj\Debug\HeThongChoThueXe.pdb
+C:\Learn\Hệ quản trị cơ sở dữ liệu\Chương 3\HeThongChoThueXe\HeThongChoThueXe\obj\Debug\HeThongChoThueXe.CreateContractFrm.resources
+C:\Learn\Hệ quản trị cơ sở dữ liệu\Chương 3\HeThongChoThueXe\HeThongChoThueXe\obj\Debug\HeThongChoThueXe.SignInFrm.resources
+C:\Learn\Hệ quản trị cơ sở dữ liệu\Chương 3\HeThongChoThueXe\HeThongChoThueXe\obj\Debug\HeThongChoThueXe.SignUpFrm.resources
